@@ -29,3 +29,6 @@ Baseline: The mean number of metastatic sites at the start of the trial for all 
 
 ### Plots
 ![Image of change](https://github.com/josephdicastro/matplotlib_demo/blob/master/charts/change.png)
+![Image of spread](https://github.com/josephdicastro/matplotlib_demo/blob/master/charts/spread.png)
+![Image of survival](https://github.com/josephdicastro/matplotlib_demo/blob/master/charts/survival.png)
+![Image of treatment](https://github.com/josephdicastro/matplotlib_demo/blob/master/charts/treatment.png)
