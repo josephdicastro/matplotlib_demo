@@ -26,3 +26,6 @@ Baseline: The mean number of metastatic sites at the start of the trial for all 
 2.	At the end of the trial, mean metastatic sites for Infubinol  patients was 2.11.
 3.	At the end of the trial, mean metastatic sites for Ketapril patients was 3.36.
 4.	At the end of the trial, mean tumor volume for patients treated with a Placebo was 3.27.
+
+### Plots
+![Image of change](https://github.com/josephdicastro/matplotlib_demo/blob/master/charts/change.png)
